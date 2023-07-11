@@ -8,8 +8,8 @@ import hr.vo.EmployeeVo;
 public class EmployeeDaoTest {
 
 	public static void main(String[] args) {
-		testFindByName("mahe");
-		testFindBySalary(10000, 20000);
+		// testFindByName("mahe");
+		testFindBySalary(150000, 155000);
 	}
 
 	private static void testFindBySalary(int min, int max) {
